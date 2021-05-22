@@ -5,7 +5,6 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import SaucePages.CartPage;
 import Steps.CartPageSteps;
 import Steps.LoginPageSteps;
 import Steps.ProductsPageSteps;
