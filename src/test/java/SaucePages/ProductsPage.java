@@ -125,6 +125,6 @@ public class ProductsPage extends PageObject {
 	}
 	
 	public boolean filterIsPresent(){
-		return element(Sorting_button).isDisabled();
+		return element(Sorting_button).isPresent();
 	}
 }

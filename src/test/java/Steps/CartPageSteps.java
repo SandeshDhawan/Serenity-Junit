@@ -17,9 +17,17 @@ public class CartPageSteps {
 	public void removeproduct(String products[]) {
 		cartpage.removeProducts(products);
 	}
-	
-	public void clickContinueButton(){
+
+	public void clickContinueButton() {
 		cartpage.continueShoppingButton();
+	}
+
+	public void clickCheckoutButton() {
+		cartpage.checkoutButton();
+	}
+
+	public void removeButtonIsPresent() {
+		cartpage.removeButtonVisibility();
 	}
 
 }
