@@ -31,7 +31,7 @@ src
         + SauceTests         Test Cases for checking functionality
         + Steps              Created Steps calling method created in Pages
     + resources
-      + webdriver                          we can crrate folder for linux and mac and have all webdriver e.g chromedriver,geckodriver
-        + windows                          Store webdriver for windows                         
-      + serenity.conf                      Passed path of webdriver    
+      + webdriver            we can crrate folder for linux and mac and have all webdriver e.g chromedriver,geckodriver
+        + windows            Store webdriver for windows                         
+      + serenity.conf        Passed path of webdriver    
 ```
